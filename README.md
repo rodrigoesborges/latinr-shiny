@@ -4,19 +4,19 @@ Repositório principal do curso Shiny: Zero a Hero.
 Material
 ========
 
--   [Apresentação](https://curso-r.github.io/latinr-shiny/slides/slides_latinr_shiny_zero_to_hero.html)
+-   [Apresentação](https://rodrigoesborges.github.io/latinr-shiny/slides/slides_latinr_shiny_zero_to_hero.html)
 -   [Script 1: Olá
-    Mundo](https://curso-r.github.io/latinr-shiny/scripts/01-ola-mundo.R)
+    Mundo](https://rodrigoesborges.github.io/latinr-shiny/scripts/01-ola-mundo.R)
 -   [Script 2:
-    Output](https://curso-r.github.io/latinr-shiny/scripts/02-output.R)
+    Output](https://rodrigoesborges.github.io/latinr-shiny/scripts/02-output.R)
 -   [Script 3: Output e
-    Input](https://curso-r.github.io/latinr-shiny/scripts/03-output-input.R)
+    Input](https://rodrigoesborges.github.io/latinr-shiny/scripts/03-output-input.R)
 -   [Script 4:
-    Case](https://curso-r.github.io/latinr-shiny/scripts/04-case.R)
+    Case](https://rodrigoesborges.github.io/latinr-shiny/scripts/04-case.R)
 -   [Script 5: Case
-    (live)](https://curso-r.github.io/latinr-shiny/scripts/05-dash.R)
+    (live)](https://rodrigoesborges.github.io/latinr-shiny/scripts/05-dash.R)
 -   [Exemplo em
-    {golem}](https://github.com/curso-r/latinr-shiny/tree/master/scripts/meuGolem)
+    {golem}](https://github.com/rodrigoesborges/latinr-shiny/tree/master/scripts/meuGolem)
 
 Ementa
 ======
@@ -78,7 +78,7 @@ Pacote esquisse:
 <a href="https://github.com/dreamRs/esquisse" class="uri">https://github.com/dreamRs/esquisse</a>
 
 Pacote auth0:
-<a href="https://github.com/curso-r/auth0" class="uri">https://github.com/curso-r/auth0</a>
+<a href="https://github.com/rodrigoesborges/auth0" class="uri">https://github.com/rodrigoesborges/auth0</a>
 
-Youtube da Curso-R:
+Youtube da rodrigoesborges:
 <a href="https://www.youtube.com/c/CursoR6/featured" class="uri">https://www.youtube.com/c/CursoR6/featured</a>
